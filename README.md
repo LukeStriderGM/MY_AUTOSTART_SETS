@@ -20,7 +20,7 @@ Główny skrypt, `mdc2_autostart.sh`, działa jako **Dwujęzyczny Architekt Auto
 
 <div align="center">  
 
-  <img src="Screenshot from 2026-02-02 05-25-10.png" width="" height=""/>
+  <img src="Screenshot from 2026-02-02 05-31-10.png" width="" height=""/>
 
 </div>
 
