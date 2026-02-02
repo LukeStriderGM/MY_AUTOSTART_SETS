@@ -75,7 +75,7 @@ Aby skutecznie wdrożyć `mdc2_autostart.sh`, upewnij się, że Twoje środowisk
 ### 🇺🇸 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MY_AUTOSTART_SETS
+git clone https://github.com/LukeStriderGM/MY_AUTOSTART_SETS
 cd MY_AUTOSTART_SETS
 ```
 
@@ -110,7 +110,7 @@ chmod +x mdc2_autostart.sh
 ### 🇵🇱 Krok 1: Sklonuj Repozytorium
 
 ```bash
-git clone https://github.com/TWOJA_NAZWA_UZYTKOWNIKA/MY_AUTOSTART_SETS
+git clone https://github.com/LukeStriderGM/MY_AUTOSTART_SETS
 cd MY_AUTOSTART_SETS
 ```
 
