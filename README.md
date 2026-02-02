@@ -18,6 +18,14 @@ Główny skrypt, `mdc2_autostart.sh`, działa jako **Dwujęzyczny Architekt Auto
 
 ---
 
+<div align="center">  
+
+  <img src="Screenshot from 2026-02-02 05-25-10.png" width="" height=""/>
+
+</div>
+
+---
+
 ## 🇺🇸 Core Features / 🇵🇱 Główne Funkcjonalności
 
 * **10-Tab Command Center**: Instantly generates a structured GNOME Terminal window with dedicated tabs for Admin tasks, GCP Servers, WireShark sniffers (`mdc2`, `home_end0`, `home_wg0`), Python scripts, and SSH connections.
